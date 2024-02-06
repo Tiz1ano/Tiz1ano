@@ -8,8 +8,8 @@ I'm a freelance student passionate about programming, particularly in web develo
 
 
 ## About me
--💻Web Developer and Designer
--🖌️UX/UI Designer
+-💻Web Developer and Designer <br>
+-🖌️UX/UI Designer <br>
 -📸Photographer
 
 Skills:  JS / HTML / CSS / GIT / GITHUB / BOOTSTRAP
